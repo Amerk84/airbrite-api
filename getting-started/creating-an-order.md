@@ -4,7 +4,7 @@ This tutorial helps you create your first order with Airbrite. If you need help,
 
 __Step 1: Make sure you've created a Product__
 
-To get started, let's make double check that you have at least one product in Airbrite. To help, a sample test API key has been provided, so you can test right away. Make the following request:
+To get started, let's double check that you have at least one product in Airbrite. To help, a sample test API key has been provided, so you can test right away. Make the following request:
 
     curl https://api.airbrite.io/v2/products \
         -u sk_test_a805be8b2add854f09976b3b5c0f5bd06c14617c:
